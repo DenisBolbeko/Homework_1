@@ -14,7 +14,7 @@ Opera, Google Chrome, Firefox, Maxthon.
 * После скачивания запустите установочный файл на вашем ПК. 
 * Программа автоматически определит ваш браузер и настроит нужное расширение.
 ```
-https://www.neurostartup.com/download
+ссылка для скачивания https://www.neurostartup.com/download
 ```
 ## Лицензия
 Все условия использования описаны на официльном сайте компании https://www.neurostartup.com
